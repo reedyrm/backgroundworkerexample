@@ -25,7 +25,7 @@ namespace backgroundworkerexample
                 int initialDelay = 1000;
                 try
                 {
-
+                    //... intense processing or work
                 } 
                 catch(Exception)
                 {
